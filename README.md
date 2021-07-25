@@ -1,5 +1,3 @@
-# ignite-ignews
-
 <h1 align="center">
   <img alt="logo" title="ignews" src="public/ignews-screenshot.png"/>
 </h1>
