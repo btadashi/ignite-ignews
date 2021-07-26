@@ -1,5 +1,5 @@
 <h1 align="center">Ignews</h1>
-<p align="center">ReactJS application developed during Ignite (Rocketseat)</p>
+<p align="center">ReactJS application with Next.js framework developed during Ignite (Rocketseat)</p>
 
 <p align="center">
  <a href="#about">About</a> •
@@ -12,7 +12,7 @@
 </p>
 
 ## About
-<p align="justify">Ignews is a ReactJS application wich provides text content by subscription.</p>
+<p align="justify">Ignews is a ReactJS with Next.js framework application wich provides text content by subscription.</p>
 <h3>Features:</h3>
 <ul>
 <li>Subscription and authentication</li>
@@ -24,6 +24,7 @@
 The applications's been developed using the following technologies:
 - <a href="https://www.typescriptlang.org/">Typescript</a>
 - <a href="https://reactjs.org/">ReactJS</a>
+- <a href="https://nextjs.org/">Next.js</a>
 - <a href="https://sass-lang.com/">Sass</a>
 - <a href="https://fauna.com/">FaunaDB</a>
 - <a href="https://stripe.com/br">Stipe</a>
