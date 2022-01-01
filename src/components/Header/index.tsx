@@ -4,7 +4,6 @@ import { ActiveLink } from '../ActiveLink';
 import styles from './styles.module.scss';
 
 export function Header() {
-  /**Tiramos a utilização do 'usePath' e a importação do 'useRouter' */
   
   return (
     <header className={styles.headerContainer}>
